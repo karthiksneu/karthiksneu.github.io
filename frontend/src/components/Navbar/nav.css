@@ -1,0 +1,33 @@
+.ty {
+      border-left: 10px solid rgba(53, 53, 53, 0.692);
+      height: 50px;
+      position: flex;
+      left: 15%;
+      margin-left: 13px;
+}
+
+.nav_bar {
+  background-color: goldenrod;
+  font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+}
+
+.header {
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
+
+.tipton_brand {
+  display: inline;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: black;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: black;
+}
+

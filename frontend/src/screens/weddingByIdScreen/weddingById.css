@@ -1,0 +1,47 @@
+
+  
+  .container {
+    padding-top: 50px;
+  }
+  
+  ul.bh {
+    list-style-type: square;
+  }
+  
+  .vc {
+    border-left: 10px solid rgb(224, 192, 5);
+    height: 50px;
+    position: flex;
+    left: 15%;
+    margin-left: 13px;
+  }
+  
+  .ah {
+    padding-top: 20px;
+  }
+
+  .nk {
+    padding-left: 30%;
+    padding-top: -2px;
+  }
+
+  .kp {
+    padding-top: 10%;
+    padding-left: 35%;
+  }
+
+  .hk {
+    padding-left: 10px;
+  }
+
+  .submit {
+    border-radius: 10px!important;
+    color: rgb(61, 38, 10)!important;
+    margin-left: 200px;
+  }
+
+  .form-fill {
+    padding-top: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    font-size: medium;
+  }

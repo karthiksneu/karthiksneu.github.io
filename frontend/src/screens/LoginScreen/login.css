@@ -1,0 +1,29 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-image {
+  background-image: url('./login-image.jpg');
+  background-size: cover;
+  background-position: 100% 35%;
+}
+
+input {
+  padding: 15px;
+  border: 0;
+  border-bottom: 1px solid rgb(172, 167, 167);
+  border-radius: 20px;
+  width: 80%;
+  background-color: #FBFBFB;
+  
+}
+
+input:focus {
+  outline: none ;
+  border: 1px solid goldenrod;
+}
+
+.input-field {
+  padding: 15px 0px;
+  
+}

@@ -1,0 +1,44 @@
+.landing {
+  height: calc(100vh) !important;
+  /* background-image: url('https://images7.alphacoders.com/362/362619.jpg') !important; */
+  /* background-image: url('https://cdn.pixabay.com/photo/2016/10/22/17/06/gradient-1761190_960_720.jpg') !important; */
+}
+
+@media screen and (max-width: 800px) {
+}
+
+.landing {
+  /* background-color: white !important; */
+  background-image: url ("./landing-page.jpg");
+  color: black !important;
+  margin-top: 10px !important;
+}
+
+.hero-image {
+  background-image: url("./landing-page.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(0, 0, 0) !important;
+  font-size: xx-large !important;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+h2 {
+  -webkit-text-stroke: 2px black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.white-box {
+  width: 75%;
+  height: auto;
+  margin: auto;
+  background-color: rgb(255, 255, 255, 0.5);
+  border-radius: 10px;
+}
