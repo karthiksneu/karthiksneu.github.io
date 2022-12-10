@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58b95613.chunk.css",
+    "main.js": "/static/js/main.f0b32f7c.chunk.js",
+    "main.js.map": "/static/js/main.f0b32f7c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.17abdb1c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.17abdb1c.js.map",
+    "static/css/2.765d398f.chunk.css": "/static/css/2.765d398f.chunk.css",
+    "static/js/2.72917547.chunk.js": "/static/js/2.72917547.chunk.js",
+    "static/js/2.72917547.chunk.js.map": "/static/js/2.72917547.chunk.js.map",
+    "static/js/3.adc58a60.chunk.js": "/static/js/3.adc58a60.chunk.js",
+    "static/js/3.adc58a60.chunk.js.map": "/static/js/3.adc58a60.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.765d398f.chunk.css.map": "/static/css/2.765d398f.chunk.css.map",
+    "static/css/main.58b95613.chunk.css.map": "/static/css/main.58b95613.chunk.css.map",
+    "static/js/2.72917547.chunk.js.LICENSE.txt": "/static/js/2.72917547.chunk.js.LICENSE.txt",
+    "static/media/Dinning1.c54b5907.jpg": "/static/media/Dinning1.c54b5907.jpg",
+    "static/media/Dinning2.97326f18.jpeg": "/static/media/Dinning2.97326f18.jpeg",
+    "static/media/Dinning3.4b6b4c31.jpeg": "/static/media/Dinning3.4b6b4c31.jpeg",
+    "static/media/Dinning4.bd432f0b.jpg": "/static/media/Dinning4.bd432f0b.jpg",
+    "static/media/con1.765c6148.jpg": "/static/media/con1.765c6148.jpg",
+    "static/media/con2.c70f1488.jpg": "/static/media/con2.c70f1488.jpg",
+    "static/media/con3.dcc81a69.jpg": "/static/media/con3.dcc81a69.jpg",
+    "static/media/landing.css": "/static/media/landing-page.d1c12a23.png",
+    "static/media/login.css": "/static/media/login-image.a2c3ff4b.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/room1.7449fea9.jpg": "/static/media/room1.7449fea9.jpg",
+    "static/media/room2.7f0f9efd.jpg": "/static/media/room2.7f0f9efd.jpg",
+    "static/media/room3.4c30c95c.jpg": "/static/media/room3.4c30c95c.jpg",
+    "static/media/room4.204870c9.jpg": "/static/media/room4.204870c9.jpg",
+    "static/media/room5.18de12e1.jpg": "/static/media/room5.18de12e1.jpg",
+    "static/media/signup.css": "/static/media/tipton-logo.62b89944.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17abdb1c.js",
+    "static/css/2.765d398f.chunk.css",
+    "static/js/2.72917547.chunk.js",
+    "static/css/main.58b95613.chunk.css",
+    "static/js/main.f0b32f7c.chunk.js"
+  ]
+}
